@@ -1,0 +1,3 @@
+[submodule "example-submodule-repo"]
+	path = example-submodule-repo
+	url = https://github.com/filfreire/example-submodule-repo
